@@ -1,4 +1,4 @@
-![logo](images/cover.png ':no-zoom')
+![logo](images/Vinted.gif ':no-zoom')
 
 # InnerSource
 
